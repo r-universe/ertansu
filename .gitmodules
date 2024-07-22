@@ -5,3 +5,6 @@
 [submodule "PLindleyROC"]
 	path = PLindleyROC
 	url = https://github.com/ertansu/plindleyroc
+[submodule "ROCsurf"]
+	path = ROCsurf
+	url = https://github.com/ertansu/rocsurf
